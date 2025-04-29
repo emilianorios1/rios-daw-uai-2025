@@ -1,0 +1,79 @@
+/* Estilo general */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  color: #000000;
+  margin: 20px;
+  padding: 0;
+}
+
+/* Navegación */
+
+
+nav a{
+  color:coral;
+}
+
+
+/* Encabezados */
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+p {
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+main img {
+  max-width: 800px;
+  margin-bottom: 20px;
+}
+
+figure {
+  margin: 20px 0;
+}
+
+figcaption {
+  font-size: 14px;
+  color: gray;
+  text-align: center;
+  margin-top: 5px;
+}
+
+form label {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+form input {
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+form button {
+  padding: 8px 12px;
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+}
+
+form textarea {
+  width: 600px;
+  height:100px;
+}
+
+
+/* Pie de página */
+footer {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 12px;
+  padding: 10px;
+  color: white;
+  background-color: coral;
+}
